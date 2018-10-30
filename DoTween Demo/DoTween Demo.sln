@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{3E34DDB3-3240-5978-C15E-6FCDA7B4DB9C}") = "DoTween Demo", "Assembly-CSharp.csproj", "{7E7A0F68-CB2A-BD3C-F32E-90DF5456F4FA}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7E7A0F68-CB2A-BD3C-F32E-90DF5456F4FA}"
 EndProject
-Project("{3E34DDB3-3240-5978-C15E-6FCDA7B4DB9C}") = "DoTween Demo", "Assembly-CSharp-Editor.csproj", "{75DC3011-EDC1-670A-C56E-D61AFAB7051B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{75DC3011-EDC1-670A-C56E-D61AFAB7051B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +42,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal

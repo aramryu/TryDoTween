@@ -1,0 +1,12 @@
+* text=auto
+
+*.unity text
+*.meta  text
+*.cs text
+*.asset text
+
+*.unitypackage binary
+*.bundle binary
+*.assetbundle binary
+*.dll binary
+*.otf binary
